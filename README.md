@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [FBU Web Programlama Eğitimi](https://github.com/arifaknar/FBU-WEB-PROGRLAMA-EGITIMI)
 
-- 💬 Ask me about **C#,REACT, AND TSQL**
+- 💬 Ask me about **TSQL, C# AND REACT**
 
 ## 📌 GitHub Stats And Top Languages
 <p float="center">
