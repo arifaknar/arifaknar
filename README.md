@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm ARİF AKNAR</h1>
 <h3 align="center">A passionate software developer from TURKEY</h3>
 
+## 📌 GitHub Stats And Top Languages
 <p float="center">
   <img  src="https://github-readme-stats.vercel.app/api?username=arifaknar&show_icons=true&count_private=true&hide=contribs,issues" alt="UtkuGlsvn's github stats" />
   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=arifaknar&layout=compact&hide=html,css" alt="My Top Langs" />
