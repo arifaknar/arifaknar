@@ -1,5 +1,5 @@
 ## <h1 align="center">Hi 👋, I'm ARİF AKNAR</h1>
-<h3 align="center">A passionate software developer from TURKEY</h3>
+<h3 align="center">Junior Software developer from TURKEY</h3>
 
 - 🔭 I’m currently working on [FBU Web Programlama Eğitimi](https://github.com/arifaknar/FBU-WEB-PROGRLAMA-EGITIMI)
 
